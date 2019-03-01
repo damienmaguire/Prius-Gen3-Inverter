@@ -10,3 +10,6 @@ Based on the Open Source Inverter system designed by Johannes Heubner.
 
 
 01/12/18 Uploaded design for a simple breakout pcb to allow easier access to the 50 Way JST header used for connecting to the IGBT driver board.
+
+
+01/03/19 Uploaded PDF of V1 logic board design for Gen 3 inverter / converter. Design on PCB commenced. Full design to be released soon.
