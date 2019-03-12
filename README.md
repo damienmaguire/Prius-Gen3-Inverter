@@ -16,3 +16,6 @@ Based on the Open Source Inverter system designed by Johannes Heubner.
 
 
 06/03/19 : Initial release of V1 logic board design files and Gerbers. Changes likely before prototype ordering. BOM on the way.
+
+
+12/03/19 : Released final design files. Now gone for pcb prototype build. Standby for fun:)
