@@ -21,3 +21,13 @@ Based on the Open Source Inverter system designed by Johannes Heubner.
 12/03/19 : Released final design files. Now gone for pcb prototype build. Standby for fun:)
 
 20/01/20 : Design files released for V2 board. Uses MG2 as inverter and MG1 and boost converter for battery charging. Based on the openinverter system. PCB files in DesignSpark PCB 9 format.
+
+16/05/20 : Design files for new V1c board released.
+<br>
+Instalation video manual part one :
+<br>
+https://youtu.be/QE-zym8iIgM
+<br>
+Available on the webshop here :
+<br>
+https://www.evbmw.com/index.php/evbmw-webshop/toyota-built-and-tested-boards
