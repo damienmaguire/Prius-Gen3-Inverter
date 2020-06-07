@@ -1,0 +1,14 @@
+Ref Name      ,Qty,Component        ,Value,Manufacturer,MPN              ,RS Part Number,Mouser Part Number  ,LCSC Part Number,Description                                                          
+              
+CONN1; CONN8  ,2  ,2PinJSTCPT       ,     ,JST         ,SM02B-CPTK-1A-TB ,123-8260      ,                    ,                ,Wire-To-Board Connector 2mm 2-Contacts Header CPT Series Crimp 1 Rows
+CONN2; CONN7  ,2  ,BM08B-CPTK-1A-TB ,     ,JST         ,BM08B-CPTK-1A-TB ,1238259       ,                    ,                ,Header Top 8 Double CPT                                              
+CONN3; CONN5  ,2  ,PIN HEADER       ,     ,            ,                 ,              ,                    ,                ,2X1X2.5MM Jumpers for DC/DC operation                                
+CONN4; SWPR001,2  ,PIN HEADER       ,     ,            ,                 ,              ,                    ,                ,3x1x2.5MM                                                            
+CONN6         ,1  ,BM50B-SHLDS-G-TFT,     ,JST         ,BM50B-SHLDS-G-TFT,See Notes     ,See Notes           ,See Notes       ,Top Entry disconnectable crimp style Shrouded Header 50 positions    
+CONN9         ,1  ,PIN HEADER       ,     ,            ,                 ,              ,                    ,                ,1X6X2.5                                                              
+CONN10        ,1  ,8PinJSTCPT       ,     ,JST         ,SM08B-CPTK-1A-TBL,              ,306-SM08B-CPTK-1ATBL,                ,Automotive Connectors SIDE ENTRY CPT HDR 2.0MM PITCH                 
+J1            ,1  ,90º LOCKING IDC  ,     ,3M          ,N3431-5302RB     ,5429153       ,517-N3431-5302RB    ,                ,3M 3000 Series; 2.54mm Pitch 34 Way 2 Row Right Angle PCB Header; Solder Term; 2A
+J2            ,1  ,90º PIN HEADER   ,     ,3M          ,N2510-5002RB     ,5428908       ,517-N2510-5002RB    ,                ,Header; High Temperature; PCB Plug; 10 Cont; Solder Tail; Thru-Hole; 2500 Series; 2A                                             
+J3            ,1  ,ML6              ,     ,HARTING     ,9185067324       ,740-7105      ,                    ,                ,Harting SEK Series 2.54mm Pitch 6 Way 2 Row Straight PCB Header      
+              
+NOTES: CONN2 available from ChipOneStop In Japan               
