@@ -31,3 +31,5 @@ https://youtu.be/QE-zym8iIgM
 Available on the webshop here :
 <br>
 https://www.evbmw.com/index.php/evbmw-webshop/toyota-built-and-tested-boards
+
+28/06/20 : Road testing : https://youtu.be/Bs4mdTkqKXk
