@@ -33,3 +33,5 @@ Available on the webshop here :
 https://www.evbmw.com/index.php/evbmw-webshop/toyota-built-and-tested-boards
 
 28/06/20 : Road testing : https://youtu.be/Bs4mdTkqKXk
+
+15/09/20 : New V1d Dual Motor version gerbers and schematics uploaded. This version features two STM32 MCUs to allow Both MG1 and MG2 in a Toyota hybrid transmission to be each controlled together or independently. Untested as of this date. Sources will be released in the future.
