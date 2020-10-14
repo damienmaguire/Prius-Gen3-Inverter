@@ -40,5 +40,6 @@ https://www.evbmw.com/index.php/evbmw-webshop/toyota-built-and-tested-boards
 V1c - Updated obsolete SG3204 charge pump -5v supply to LM2776.
 
 V1d - Changed pullups / pulldowns on the MG1 MCU to avoid it being detected as a Tesla M3 board by the firmware.
+
 V1d - Updated obsolete SG3204 charge pump -5v supply to LM2776.
 
