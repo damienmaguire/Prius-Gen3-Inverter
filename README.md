@@ -37,6 +37,7 @@ https://www.evbmw.com/index.php/evbmw-webshop/toyota-built-and-tested-boards
 15/09/20 : New V1d Dual Motor version gerbers and schematics uploaded. This version features two STM32 MCUs to allow Both MG1 and MG2 in a Toyota hybrid transmission to be each controlled together or independently. Untested as of this date. Sources will be released in the future.
 
 14/10/20 : Block 3 versions of V1c and V1d boards added. Changes :
+
 V1c - Updated obsolete SG3204 charge pump -5v supply to LM2776.
 
 V1d - Changed pullups / pulldowns on the MG1 MCU to avoid it being detected as a Tesla M3 board by the firmware.
