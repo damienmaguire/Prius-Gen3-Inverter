@@ -44,3 +44,7 @@ V1d - Changed pullups / pulldowns on the MG1 MCU to avoid it being detected as a
 
 V1d - Updated obsolete SG3204 charge pump -5v supply to LM2776.
 
+Dual motor board working :
+
+https://www.youtube.com/watch?v=aW6XFF3Rs8Q
+
