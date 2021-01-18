@@ -48,3 +48,5 @@ Dual motor board working :
 
 https://www.youtube.com/watch?v=aW6XFF3Rs8Q
 
+18/01/2021 :(180Jacob) Small board layout of V1d uploaded. Note at time of writing, the low side output drivers are out of stock at JLC so I will change the BOM once an alternative is chosen.
+
